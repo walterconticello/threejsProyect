@@ -19,7 +19,7 @@ const Customizer = () => {
 				<>
 					<motion.div
 						key="custom"
-						className="absolute top-0 left-0 z-10 w-full h-full flex items-center"
+						className="absolute top-0 left-0 z-10 h-full flex items-center"
 						{...slideAnimation('left')}
 					>
 						<div>
